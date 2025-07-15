@@ -37,16 +37,11 @@ You can check your PC's IP using ip a or ipconfig.
 
 Run an example
 
-bash
-Copy
-Edit
 python share/example/python/example_io.py
 ⚙️ Configuration
 Inside each script, set the correct robot IP:
 
-python
-Copy
-Edit
+
 robot_ip = "192.168.0.xxx"  # Replace with your robot's IP
 robot_port = 30004          # Default RPC port
 📓 Notes
@@ -61,11 +56,6 @@ Gowtham A
 🔗 GitHub
 
 📌 This project is not officially affiliated with Aubo Robotics. For official support, refer to Aubo Robotics.
-
-yaml
-Copy
-Edit
-
 ---
 
 Let me know if you also want:
